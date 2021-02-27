@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on  Own Personal Project...
 - 🌱 I’m currently learning Django
-- 💬 Ask me about Anything
+- 💬 Ask me about #Android 
 - 📫 How to reach me:  on Linkdin(Shashank Kumar Dahiya)
 - 😄 Pronouns: ... Sudeep Dahiya
 - ⚡ Fun fact: Android was intended to be very customizable. And we welcome innovations.
