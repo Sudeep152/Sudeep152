@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">  <a href="https://www.linkedin.com/in/shashank-kumar-dahiya-552b32198/?trk=public_profile_samename_profile_profile-result-card_result-card_full-click&originalSubdomain=in" target="blank"><img align="middle" src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_14-linkedin-512.png" alt="agamkoradiya" height="40" width="40" /></a> 
-<a href="https://www.instagram.com/" target="blank"><img align="middle" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/173_Instagram_logo_logos-512.png" alt="code.fun" height="40" width="40" /></a></p>
+<a href="https://www.instagram.com/127.0.0.1_anonymous/?hl=en" target="blank"><img align="middle" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/173_Instagram_logo_logos-512.png" alt="code.fun" height="40" width="40" /></a></p>
 
 <h3 align="center">Languages and Tools:</h3>
    
