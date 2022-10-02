@@ -5,7 +5,7 @@
 
 
 - 🔭 I’m currently working on  Own Personal Project...
-- 🌱 I’m currently learning Django
+- 🌱 I’m currently learning Jetpack Compose
 - 💬 Ask me about #Android 
 - 📫 How to reach me:  on Linkdin(Shashank Kumar Dahiya)
 - 😄 Pronouns: ... Sudeep Dahiya
