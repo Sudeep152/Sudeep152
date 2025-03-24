@@ -5,7 +5,7 @@
 
 
 - 🔭 I’m currently working at Appscrip.
-- 🌱 I’m currently learning Jetpack Compose
+- 🌱 I’m currently learning KMM & CMM
 - 💬 Ask me about #Android 
 - 📫 How to reach me:  on Linkdin(Shashank Kumar Dahiya)
 - 😄 Pronouns: ... Sudeep Dahiya
